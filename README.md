@@ -17,22 +17,9 @@ To get started with the Online Code Editor, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/online-code-editor.git
-Navigate to the project directory:
 
-bash
-Copy code
+git clone 
 cd online-code-editor
-Install the necessary dependencies:
-
-bash
-Copy code
 npm install
-Run the application:
-
-bash
-Copy code
 npm start
 Open your web browser and navigate to http://localhost:3000 to start coding!
